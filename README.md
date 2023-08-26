@@ -2,7 +2,7 @@
 
 **技术博客**：
 - [知乎：吃果冻不吐果冻皮](https://www.zhihu.com/people/liguodong-iot)
-- [微信公众号：吃果冻不吐果冻皮](https://github.com/liguodongiot/liguodongiot/blob/main/images/%E5%85%AC%E4%BC%97%E5%8F%B7.jpeg)：微信公众号每日精选一篇 LLM / MLOps 等 AI 领域的博文推送。
+- [微信公众号：吃果冻不吐果冻皮](https://github.com/liguodongiot/liguodongiot/blob/main/images/%E5%85%AC%E4%BC%97%E5%8F%B7.jpeg)：微信公众号每日都会精选一篇 LLM / MLOps 等 AI 领域的博文进行推送。
 - [掘金技术社区：吃果冻不吐果冻皮](https://juejin.cn/user/3642056016410728/posts)
 - [CSDN：吃果冻不吐果冻皮](https://liguodong.blog.csdn.net/)
 
