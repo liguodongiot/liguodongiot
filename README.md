@@ -1,4 +1,4 @@
-您好，我是果冻（Jelly Lee），来自四川成都，目前从事 LLM、MLOps 等AI工程化相关工作。
+您好，我是果冻（Jelly Lee），来自四川成都，目前从事 LLM、MLOps 等 AI 工程化相关工作。
 
 **技术博客**：
 - [知乎：吃果冻不吐果冻皮](https://www.zhihu.com/people/liguodong-iot)
