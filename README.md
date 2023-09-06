@@ -7,7 +7,7 @@
 - [CSDN：吃果冻不吐果冻皮](https://liguodong.blog.csdn.net/)
 
 
-**大模型技术交流群**：[点击进入](https://mp.weixin.qq.com/s?__biz=MzU3Mzg5ODgxMg==&mid=2247485625&idx=1&sn=fcef9b3bbfdfcc8a58ea3d5d0c5ecb6d&chksm=fd3be1eaca4c68fcc73a2c732d07082649ce38ab4cdf3718e1179de8c069b0617dd6ae3ed32e&token=1195390530&lang=zh_CN#rd)
+**大模型技术交流群**：[点击进入](https://mp.weixin.qq.com/s?__biz=MzU3Mzg5ODgxMg==&mid=2247485828&idx=1&sn=7355c99bc907b972773f795cea9326c8&chksm=fd3be0d7ca4c69c10d842b0150a754178f9bd7691ec1e8a64c7a441822ca45833e718a9008bd&token=282634480&lang=zh_CN#rd)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liguodongiot&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
