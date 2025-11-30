@@ -11,9 +11,6 @@
 - 大模型学习交流群、大模型推理加速交流群、大模型应用开发交流群、大模型校招交流群：[点击进入](https://mp.weixin.qq.com/s?__biz=MzU3Mzg5ODgxMg==&mid=2247485828&idx=1&sn=7355c99bc907b972773f795cea9326c8&chksm=fd3be0d7ca4c69c10d842b0150a754178f9bd7691ec1e8a64c7a441822ca45833e718a9008bd&token=282634480&lang=zh_CN#rd) 
 - 大模型实验室lab4ai：[免费领取50元GPU算力](https://www.lab4ai.cn/register?agentID=user-PqCML6LJZO)，大模型实验室群：[点击进入](https://github.com/liguodongiot/liguodongiot/tree/main/images/大模型实验室群二维码.png)
 
-[![liguodongiot's GitHub stats](https://github-readme-stats.vercel.app/api?username=liguodongiot&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 [![liguodongiot's GitHub stats](https://github-readme-stats.vercel.app/api?username=liguodongiot&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
